@@ -1,0 +1,9 @@
+association hook up
+association cache
+column serializing methods
+  --add attribute methods when these are declared
+  --add methods on successful access (or instantiation)
+way to do "raw" queries and bring back AT objects? (map, reduce)
+scope
+find unretardedness
+find_with_objects => connection, or something
